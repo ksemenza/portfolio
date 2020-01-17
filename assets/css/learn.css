@@ -398,6 +398,9 @@ header a:active {
 .expSec p {
   margin: 3%;
 }
+
+
+
 footer {
   display: flex;
   flex-direction: column-reverse;
